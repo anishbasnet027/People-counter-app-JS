@@ -1,0 +1,21 @@
+body{
+    background-color: rgba(237,227,190,255);
+    margin: 0;
+}
+
+.heading{
+    width: 600px;
+    background-image: url("https://img.freepik.com/premium-vector/illustration-large-pencil-top-table-beside-big-blank-clipboard-coffee-mug-empty_424947-4133.jpg?w=740");
+    height: 600px;
+
+}
+
+h1{
+    margin-top: 0;
+    text-align: center;
+    padding-top: 150px;
+}
+
+h2{
+    text-align: center;
+}
