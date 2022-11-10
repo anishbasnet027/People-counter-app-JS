@@ -1,5 +1,6 @@
-document.getElementById("count-el").innerText = 10;
+let count = 0
 
 function increment() {
-    console.log("button was clicked")
+    count = count + 1
+    console.log(count)
 }
